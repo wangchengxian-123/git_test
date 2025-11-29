@@ -9,5 +9,6 @@ public class Main {
         System.out.println("wcx1");
         System.out.println("wcx2");
         System.out.println("写个bug");
+        System.out.println("我再写个bug");
     }
 }
