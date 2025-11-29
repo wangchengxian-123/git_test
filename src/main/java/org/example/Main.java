@@ -8,6 +8,5 @@ public class Main {
         // 查看 IntelliJ IDEA 建议如何修正。
         System.out.println("wcx1");
         System.out.println("wcx2");
-        System.out.println("写个bug");
     }
 }
