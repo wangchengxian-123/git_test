@@ -6,4 +6,5 @@ package org.example;
  * @description:
  **/
 public class Test {
+    private Integer a;
 }
